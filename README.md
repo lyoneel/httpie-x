@@ -11,6 +11,11 @@ Responses are displayed with syntax highlighting.
 httpie-go is a clone of [httpie](https://httpie.org/).
 Since httpie-go is written in Go, it is a single binary and does not require a heavy runtime.
 
+## Installation
+```
+go install github.com/nojima/httpie-go/cmd/ht@latest
+```
+
 ## Examples
 
 This example sends a GET request to http://httpbin.org/get.
