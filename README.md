@@ -13,7 +13,7 @@ Since httpie-go is written in Go, it is a single binary and does not require a h
 
 ## Installation
 ```
-go install github.com/nojima/httpie-go/cmd/ht@latest
+go install github.com/lyoneel/httpie-go/cmd/ht@latest
 ```
 
 ## Examples
